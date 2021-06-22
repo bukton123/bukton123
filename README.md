@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bukton123&theme=dark)](https://git.io/streak-stats)
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=bukton123&theme=dark"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
 </p>
