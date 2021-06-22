@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bukton123&theme=dark)](https://git.io/streak-stats)
+</p>
